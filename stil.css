@@ -1,0 +1,23 @@
+/* Show it is fixed to the top */
+body {
+    min-height: 75rem;
+  }
+  
+.menu{
+height: 75px;
+background-color: #091926;
+}
+.banner{
+    height: 80vh;
+}
+
+.bannerbosluk{
+    margin-top: 150px;
+}
+.centeryazi{
+    text-align: center;
+    margin-top: 80px;
+}
+.centeralti{
+background-color: #f6f6f6;
+}
